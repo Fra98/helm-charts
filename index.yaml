@@ -2,12 +2,21 @@ apiVersion: v1
 entries:
   liqo:
   - apiVersion: v2
-    created: "2023-03-16T00:27:26.251757579+01:00"
+    created: "2023-07-06T17:26:25.500103115+02:00"
     description: A Helm chart for Liqo
     digest: 633467400e06344fc02ae8657b52597fb097db3603b17584c9dc362912cd9869
     name: liqo
     type: application
     urls:
-    - https://fra98.github.io/helm-charts/liqo-v0.7.2-seps.tgz
+    - https://fra98.github.io/helm-chart/liqo-v0.7.2-seps.tgz
     version: v0.7.2-seps
-generated: "2023-03-16T00:27:26.248052368+01:00"
+  - apiVersion: v2
+    created: "2023-07-06T17:26:25.489469562+02:00"
+    description: A Helm chart for Liqo
+    digest: 22a139ac4c31a136be2ddde7446a867cfd93a32acb63af89aaa407f885025e75
+    name: liqo
+    type: application
+    urls:
+    - https://fra98.github.io/helm-chart/liqo-v0.1.0-danzi.tgz
+    version: v0.1.0-danzi
+generated: "2023-07-06T17:26:25.482382794+02:00"
