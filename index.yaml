@@ -8,7 +8,7 @@ entries:
     name: liqo
     type: application
     urls:
-    - https://fra98.github.io/helm-chart/liqo-v0.7.2-seps.tgz
+    - https://fra98.github.io/helm-charts/liqo-v0.7.2-seps.tgz
     version: v0.7.2-seps
   - apiVersion: v2
     created: "2023-07-06T17:26:25.489469562+02:00"
@@ -17,6 +17,6 @@ entries:
     name: liqo
     type: application
     urls:
-    - https://fra98.github.io/helm-chart/liqo-v0.1.0-danzi.tgz
+    - https://fra98.github.io/helm-charts/liqo-v0.1.0-danzi.tgz
     version: v0.1.0-danzi
 generated: "2023-07-06T17:26:25.482382794+02:00"
